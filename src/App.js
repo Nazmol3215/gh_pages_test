@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
+import About from './Component/About';
 
 function App() {
   return (
@@ -13,6 +13,8 @@ function App() {
 <h1>dgz bxb xdfrhb</h1>
 <h1>dgz bxb xdfrhb</h1>
 <h1>dgz bxb xdfrhb</h1>
+
+<About/>
 
     </div>
   );
